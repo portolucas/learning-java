@@ -1,0 +1,4 @@
+dao/CategoriaDAO.class
+controller/InserirCategoria.class
+model/Categoria.class
+dao/Conexao.class
